@@ -1,6 +1,5 @@
-# streamlit_emp_pred
+# streamlit demo for ML model prediction
 
-### App link https://share.streamlit.io/jnjerry/streamlit_emp_pred/main/testml.py
 
 
 # Step to create this streamlit interface
