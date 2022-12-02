@@ -2,7 +2,7 @@
 
 Streamlit is a very convenient tool to showcase the ML model result to the non-technical business stakeholders.
 With its user friendly UI, stakeholders can easily understand what the expected output is in the PoC stage.
-In this repo I will show how to use some basic functions of Streamlit to achieve this goal.
+In this repo, I will show how to use some basic functions of Streamlit to achieve this goal.
 
 
 ### UI Demo
