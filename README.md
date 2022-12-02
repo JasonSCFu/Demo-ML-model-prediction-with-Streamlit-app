@@ -21,7 +21,3 @@ You can click this [link](https://jasonscfu-demo-ml-model-prediction-with-stream
 3. Get model results from the streamlit interface.
 4. Run streamlit run main.py in terminal to deploy the streamlit app.
 
-
-
-
-
