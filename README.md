@@ -1,7 +1,7 @@
 ## Streamlit demo for ML model prediction
 
 ### UI Demo
-![alt text](https://github.com/JasonSCFu/Demo-ML-model-prediction-with-Streamlit-app/blob/main/GIF.gif)
+![alt text](https://github.com/JasonSCFu/Demo-ML-model-prediction-with-Streamlit-app/blob/main/GIF/GIF.gif)
 
 
 
