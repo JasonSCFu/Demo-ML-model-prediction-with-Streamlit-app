@@ -1,7 +1,7 @@
 ## Streamlit demo for ML model prediction
 
 ### UI Demo
-![alt text](https://github.com/kennethleungty/End-to-End-AutoML-Insurance/blob/main/demo/streamlit-ui-2021-12-18-17-12-25.gif?raw=true)
+![alt text](https://github.com/JasonSCFu/Demo-ML-model-prediction-with-Streamlit-app/blob/main/GIF.gif)
 
 
 
