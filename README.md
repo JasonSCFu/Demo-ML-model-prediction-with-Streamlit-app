@@ -16,7 +16,7 @@ You can click this [link](https://jasonscfu-demo-ml-model-prediction-with-stream
 
 
 ### Step to create this streamlit interface
-1. Use Logistic Regression- Employee Analytics-Streamlit.ipynb to create and save the model. The model is saved as emp-model.pkl. We built a toy model for demo purpose, the focus is not on modelling part.
+1. Use Logistic Regression Employee Analytics Streamlit.ipynb to create and save the model. The model is saved as emp-model.pkl. We built a toy model for demo purpose, the focus is not on modelling part.
 2. Create a streamlit interface to interact with our pickle file.
 3. Get model results from the streamlit interface.
 4. Run streamlit run main.py in terminal to deploy the streamlit app.
